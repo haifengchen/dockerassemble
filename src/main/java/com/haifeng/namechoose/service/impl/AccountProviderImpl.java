@@ -7,7 +7,6 @@ import com.haifeng.namechoose.utils.PasswordUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-import org.springframework.util.DigestUtils;
 
 @Component
 @Slf4j
